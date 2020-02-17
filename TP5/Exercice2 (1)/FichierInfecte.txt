@@ -1,0 +1,3 @@
+MATLABYoMan! is a high-level technical compYoMan!uting language and interactive environment for algorithm development, data visualization, data analysis, and numeric YoMan!computation. Using the MATLAB product, YoMan!you can solve technical computing problems faster than with traditionalYoMan! programming languages, such as C, C++, and Fortran.
+
+YoMan!You can use MATLAB in a wide range of applications, including signal and image processing, communicaYoMan!tions, control design, test and measurement, financialYoMan! modeling and analysis, and computational biology. Add-on toolboxes YoMan! (collections of special-purpose YoMan!MATLAB functions, available separately) extend the MATLAB environment to solve particular classes of problems in these application areasYoMan!.

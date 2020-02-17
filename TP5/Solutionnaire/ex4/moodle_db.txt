@@ -1,0 +1,48 @@
+Bob Smith
+1935066
+16.5
+14.75
+17.8
+génie biomédical
+Marie Currie
+1912456
+19.5
+20
+19.75
+génie chimique
+Spongebob Squarepants
+1994091
+12.5
+8.43
+16.5
+génie aérospatial
+Tony Stark
+1973045
+19.25
+16.8
+17.25
+génie industriel
+Gimli Lockbearer
+19123567
+17.6
+16.25
+15
+génie des mines
+John Smith
+1948019
+17.25
+13.5
+16.5
+génie biomédical
+Werner Heisenberg
+1923503
+20
+19.75
+20
+génie physique
+Stewie Griffin
+1945028
+20
+20
+20
+génie physique
